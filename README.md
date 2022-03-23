@@ -8,7 +8,7 @@
 C#
 
 ## Screenshots
-![App Screenshot](https://github.com/imumer12/Power-Options/blob/main/power.png)
+![App Screenshot](https://github.com/imumer12/Plane-Game/blob/main/Plane%20game.png)
 
 
 ## License
