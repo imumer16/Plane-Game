@@ -1,0 +1,10 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.Form1.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\bin\Debug\flappy_Bird.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\bin\Debug\flappy_Bird.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\bin\Debug\flappy_Bird.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\flappy_Bird\flappy_Bird\obj\Debug\flappy_Bird.pdb
